@@ -1,0 +1,2 @@
+Acceder à l'appli avec l'url
+/HelloWorld-0.0.1-SNAPSHOT/hello
